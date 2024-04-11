@@ -26,8 +26,11 @@ Very opinionated, very hard to move out of it
 
 
 
-First, run the development server:
+To run the development server:
 
+1.Clone repo
+2. npm I
+3.
 ```bash
 npm run dev
 # or
